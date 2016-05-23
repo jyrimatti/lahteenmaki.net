@@ -1,0 +1,9 @@
+[submodule "etc/nixos"]
+	path = etc/nixos
+	url = git@github.com:jyrimatti/lahteenmaki.net-nixos.git
+[submodule "home/jyri-matti"]
+	path = home/jyri-matti
+	url = git@github.com:jyrimatti/lahteenmaki.net-home.git
+[submodule "var/www"]
+	path = var/www
+	url = git@github.com:jyrimatti/lahteenmaki.net-web.git
