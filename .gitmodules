@@ -7,3 +7,9 @@
 [submodule "var/www"]
 	path = var/www
 	url = git@github.com:jyrimatti/lahteenmaki.net-web.git
+[submodule "var/blog"]
+	path = var/blog
+	url = git@github.com:jyrimatti/lahteenmaki.net-blog.git
+[submodule "var/hs"]
+	path = var/hs
+	url = git@github.com:jyrimatti/hs-oneliners.git
