@@ -13,6 +13,9 @@
 [submodule "var/hs"]
 	path = var/hs
 	url = git@github.com:jyrimatti/hs-oneliners.git
+[submodule "var/tkd"]
+	path = var/tkd
+	url = git@github.com:jyrimatti/tkd.git
 [submodule "var/alava"]
 	path = var/alava
 	url = git@github.com:jyrimatti/lahteenmaki.net-alava.git
