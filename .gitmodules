@@ -19,3 +19,6 @@
 [submodule "var/alava"]
 	path = var/alava
 	url = git@github.com:jyrimatti/lahteenmaki.net-alava.git
+[submodule "var/rafiikka"]
+	path = var/rafiikka
+	url = git@github.com:jyrimatti/rafiikka.git
