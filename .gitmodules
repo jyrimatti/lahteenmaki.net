@@ -16,6 +16,9 @@
 [submodule "var/tkd"]
 	path = var/tkd
 	url = git@github.com:jyrimatti/tkd.git
+[submodule "var/spot"]
+	path = var/spot
+	url = git@github.com:jyrimatti/spot.git
 [submodule "var/alava"]
 	path = var/alava
 	url = git@github.com:jyrimatti/lahteenmaki.net-alava.git
