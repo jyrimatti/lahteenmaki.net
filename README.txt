@@ -1,3 +1,1 @@
-Secret stuff, not pushed to any repo:
-
-echo "my-hashed-root-passwd" > /root/pwd
+Moved to https://codeberg.org/jyri-matti/lahteenmaki.net
